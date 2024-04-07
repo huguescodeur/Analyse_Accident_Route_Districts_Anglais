@@ -1,0 +1,29 @@
+* Primary KPI - Total Casualties and Total Accident values for Current Year and YoY growth.
+
+* Primary KPI's - Total Casualties by Accident Severity for Current Year abd YoY growth.
+
+* Secondary KPI's - Total Casualties with respect to vehicle type for Current Year.
+
+* Monthly trend showing comparison of casualties for Current Year and Previous Year.
+
+* Casualties by Road Type for Current Year.
+
+* Current Year Casualties by Area/ Location & Day/ Night.
+
+* Total Casualties and Total Accidents by Location
+
+-----------------------------------------------------------
+
+* KPI principal - Valeurs totales des victimes et des accidents pour l'année en cours et la croissance annuelle.
+
+* KPI principaux : nombre total de victimes par gravité de l'accident pour l'année en cours et la croissance annuelle.
+
+* KPI secondaires - Nombre total de victimes par rapport au type de véhicule pour l'année en cours.
+
+* Tendance mensuelle montrant la comparaison des victimes pour l'année en cours et l'année précédente.
+
+* Victimes par type de route pour l'année en cours.
+
+* Victimes de l'année en cours par zone/lieu et jour/nuit.
+
+* Nombre total de victimes et nombre total d'accidents par emplacement
